@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey SaltedShroom here ^^
 
-<!--
-**SaltedShroom/SaltedShroom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Solo Full-Stack Developer
 
-Here are some ideas to get you started:
+🚀 About Me
+I am passionate about building tools in web-based environments.
+I love learning new tech and improving my projects.
+I like open source and sharing what I build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏗️ Projects
+🖼️ Booru Studio - A next-gen booru browser and manager.
+
+📫 Contact
+Reddit: u/SaltedShroom
+GitHub Issues/Discussions on my repos
+
+Thanks for stopping by! ⭐️
+Feel free to check out my projects, open issues, or just say hi!
