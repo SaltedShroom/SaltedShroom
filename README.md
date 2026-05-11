@@ -2,18 +2,17 @@
 
 🧑‍💻 Solo Full-Stack Developer
 
-<hr>
-<h3>🚀 About Me</h3>
+🚀 <ins> **About me** </ins>
 
-I am passionate about building tools in web-based environments.
-I love learning new tech and improving my projects.
+I am passionate about building tools in web-based environments. <br>
+I love learning new tech and improving my projects. <br>
 I like open source and sharing what I build.
-<hr>
-<h3>🏗️ Projects</h3>
+
+🏗️ <ins> **Projects** </ins>
 
 🖼️ Booru Studio - A next-gen booru browser and manager.
-<hr>
-<h3>📫 Contact</h3>
+
+📫 <ins> **Contact** </ins>
 
 Reddit: u/SaltedShroom
 GitHub Issues/Discussions on my repos
