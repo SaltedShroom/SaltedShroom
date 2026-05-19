@@ -9,7 +9,6 @@ I like open source and sharing what I build.
 
 
 <ins> **Contact** </ins><br>
-Reddit: u/SaltedShroom <br>
 GitHub Issues/Discussions on my repos
 
 
